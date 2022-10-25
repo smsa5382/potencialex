@@ -62,11 +62,11 @@
           </div>
         </nav>
         <h1 class="u-align-center u-text u-title u-text-1">
-          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://psupplementi.herokuapp.com/potencialex.php"><b>P​Supplementi</b>
+          <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://potencialex.herokuapp.com/potencialex.php"><b>P​Supplementi</b>
             <br>
           </a>
         </h1>
-        <a href="https://psupplementi.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-1 u-hover-none u-btn-2"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
+        <a href="https://potencialex.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-1 u-hover-none u-btn-2"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
       </div></header>
     <section class="u-clearfix u-section-1" id="sec-58c8">
       <div class="u-clearfix u-sheet u-valign-middle-md u-valign-middle-xs u-sheet-1">
@@ -76,7 +76,7 @@
               <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-1">
                 <div class="u-container-layout u-container-layout-1">
                   <h1 class="u-align-center u-text u-title u-text-1">
-                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://psupplementi.herokuapp.com/potencialex.php">
+                    <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-1" href="https://potencialex.herokuapp.com/potencialex.php">
                       <span style="text-decoration: underline !important;"><b>POTENCIALEX</b>
                       </span>
                       <br>
@@ -97,9 +97,9 @@ rendir durante mucho tiempo, dejando a nuestra pareja asombrada y
 satisfecha.
                   </p>
                   <h1 class="u-align-center u-text u-text-custom-color-1 u-text-6"> ¡Sentirás el flujo de energía con Potencialex!&nbsp;</h1>
-                  <a href="https://psupplementi.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-1 u-hover-none u-btn-2"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
-                  <a href="https://psupplementi.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-3"> SITO UFFICIALE</a>
-                  <div class="u-shape u-shape-svg u-text-custom-color-1 u-shape-1" data-href="https://psupplementi.herokuapp.com/potencialex.php">
+                  <a href="https://potencialex.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-custom-color-1 u-hover-none u-btn-2"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
+                  <a href="https://potencialex.herokuapp.com/potencialex.php" class="u-active-none u-border-custom-color-3 u-border-none u-btn u-btn-rectangle u-button-style u-hover-none u-none u-text-custom-color-1 u-btn-3"> SITO UFFICIALE</a>
+                  <div class="u-shape u-shape-svg u-text-custom-color-1 u-shape-1" data-href="https://potencialex.herokuapp.com/potencialex.php">
                     <svg class="u-svg-link" preserveAspectRatio="none" viewBox="0 0 160 100" style=""><use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#svg-e39c"></use></svg>
                     <svg class="u-svg-content" viewBox="0 0 160 100" x="0px" y="0px" id="svg-e39c" style="enable-background:new 0 0 160 100;"><g><path d="M109.2,99.9L160,50L109.2,0H75.6l38.7,38H0v24.2h114L75.6,100L109.2,99.9z"></path>
 </g></svg>
@@ -108,7 +108,7 @@ satisfecha.
               </div>
               <div class="u-container-style u-layout-cell u-size-30 u-layout-cell-2">
                 <div class="u-container-layout u-container-layout-2">
-                  <img class="u-expanded-width-lg u-expanded-width-xs u-image u-image-default u-image-1" src="images/17.png" alt="" data-image-width="460" data-image-height="290" data-href="https://psupplementi.herokuapp.com/potencialex.php">
+                  <img class="u-expanded-width-lg u-expanded-width-xs u-image u-image-default u-image-1" src="images/17.png" alt="" data-image-width="460" data-image-height="290" data-href="https://potencialex.herokuapp.com/potencialex.php">
                 </div>
               </div>
             </div>
@@ -120,7 +120,7 @@ satisfecha.
       <div class="u-clearfix u-expanded-width-xl u-expanded-width-xs u-gutter-0 u-layout-wrap u-layout-wrap-1">
         <div class="u-gutter-0 u-layout">
           <div class="u-layout-row">
-            <div class="u-align-left u-container-style u-hidden-xs u-image u-layout-cell u-size-60 u-image-1" data-image-width="1061" data-image-height="405" data-href="https://psupplementi.herokuapp.com/potencialex.php">
+            <div class="u-align-left u-container-style u-hidden-xs u-image u-layout-cell u-size-60 u-image-1" data-image-width="1061" data-image-height="405" data-href="https://potencialex.herokuapp.com/potencialex.php">
               <div class="u-container-layout u-valign-top-xs u-container-layout-1"></div>
             </div>
           </div>
@@ -132,7 +132,7 @@ satisfecha.
         <h1 class="u-align-center u-text u-text-1"> Potencialex es un producto 100% natural,<span style="font-weight: normal;"> sin impurezas nocivas ni efectos secundarios. Su contribución al cuerpo es útil para la salud ya que previene la obesidad, depura de los residuos de colesterol, mejora el funcionamiento del corazón y el cerebro. Potencialex tiene una propiedad general rejuvenecedora y saludable.</span>
           <br>
         </h1>
-        <a href="https://psupplementi.herokuapp.com/potencialex.php" class="u-border-custom-color-3 u-border-none u-btn u-button-style u-white u-btn-1"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
+        <a href="https://potencialex.herokuapp.com/potencialex.php" class="u-border-custom-color-3 u-border-none u-btn u-button-style u-white u-btn-1"> ¡SÍ, DAME MI ENLACE DE DESCUENTO!</a>
       </div>
     </section>
     
